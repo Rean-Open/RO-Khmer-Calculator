@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">រង្វាស់រង្វាល់ខ្មែរ</string>
+    <string name="editTxt_place_holder">បញ្ចូលតម្លៃលេខ</string>
+    <string name="convert_from">បំបែកពី</string>
+    <string name="convert_to">ទៅជា</string>
+    <string name="equal_to">ស្មើនឹង</string>
+    <string name="answer">ចម្លើយគឺស្មើនឹង</string>
+    <string name="calculate">បំបែក</string>
+    <string-array name="convert_from_value">
+        <item>គូ</item>
+        <item>ដំប</item>
+        <item>ផ្លូន</item>
+        <item>ស្លឹក</item>
+    </string-array>
+    <string-array name="convert_to_value">
+        <item>ផ្លែ</item>
+        <item>ដំប</item>
+        <item>ផ្លូន</item>
+    </string-array>
+    <string name="title_activity_main_tab">MainTabActivity</string>
+    <string name="tab_text_1">រង្វាស់រាប់ផ្លែឈើ</string>
+    <string name="tab_text_2">រង្វាស់ចំណុះ</string>
+    <string name="tab_text_3">រង្វាស់ទម្ងន់</string>
+    <string name="tab_text_4">រង្វាស់ប្រវែង</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
